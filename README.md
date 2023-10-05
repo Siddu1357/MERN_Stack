@@ -1,1 +1,3 @@
-# MERN_Stack
+# MERN Stack
+
+Modern Real Estate Market Place 
